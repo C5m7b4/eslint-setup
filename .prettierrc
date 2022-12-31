@@ -1,0 +1,29 @@
+{
+  "arrowParens": "always",
+  "bracketSameLine": false,
+  "bracketSpacing": true,
+  "cursorOffset": -1,
+  "editorconfig": false,
+  "endOfLine": "auto",
+  "embeddedLanguageFormatting": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxSingleQuote": true,
+  "parser":"babel",
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "singleQuote": true,
+  "tabWidth": 2,
+  
+  "rangeStart": 0,
+  "requirePragma": false,
+  "semi": true,
+  "singleAttributePerLine": false,
+  "trailingComma": "es5",
+  "useTabs": false,  
+  
+  "filepath": "",
+  "overrides": [],
+  "plugins": []
+}
